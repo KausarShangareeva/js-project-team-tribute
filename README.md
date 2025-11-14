@@ -1,6 +1,6 @@
 # 🌟 My First Project
 
-Welcome to my very first coding project! This is the start of my programming journey. I worked together with **@mikaelasturk** and **@carro-barro  ** at **Technigo** school. This project helped me learn the basics of coding and teamwork.  
+Welcome to my very first coding project! This is the start of my programming journey. I worked together with **@mikaelasturk** and **@carro-barro** at **Technigo** school. This project helped me learn the basics of coding and teamwork.  
 
 ---
 
