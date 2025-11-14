@@ -30,9 +30,7 @@ This is my **first team project**. We focused on learning and experimenting with
 ```
 my-first-project/
 ├── index.html # HTML structure
-├── styles.css # Styles and layout
-├── script.js # JavaScript logic
-└── images/ # Images and icons
+└── styles.css # Styles and layout
 ```
 ---
 
