@@ -45,7 +45,7 @@ my-first-project/
 
 ## 🧠 How It Works
 1. We planned the project together and divided tasks.  
-2. Each team member worked on their part (HTML, CSS, JS).  
+2. Each team member worked on their part (HTML, CSS).  
 3. We merged our work on GitHub using pull requests.  
 4. The final project showcases a simple webpage with interactive elements and styling.  
 
