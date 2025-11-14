@@ -1,51 +1,61 @@
-🌟 My First Project
+# 🌟 My First Project
 
-This is my very first project as I start my journey in coding! I worked together with @Mikaela and @Carolina at @Technigo school. This project helped me learn the basics of teamwork, version control, and building something from scratch.
+Welcome to my very first coding project! This is the start of my programming journey. I worked together with **@mikaelasturk** and **@carro-barro  ** at **Technigo** school. This project helped me learn the basics of coding and teamwork.  
 
-🚀 What I Learned
+---
 
-How to collaborate in a team on GitHub
+## 🚀 What I Learned
+- How to collaborate in a team on GitHub  
+- Basic HTML, CSS
+- Project structure and file organization  
+- Committing and pushing code  
+- Communicating effectively with team members  
 
-Using basic HTML, CSS, and JavaScript
+---
 
-Project structure and file organization
+## 💡 About This Project
+This is my **first team project**. We focused on learning and experimenting with code rather than building a complex app. The main goal was to **practice teamwork, coding basics, and project organization**.  
 
-How to commit and push code regularly
+---
 
-Communicating effectively with team members
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- Git & GitHub  
 
-🛠️ Technologies Used
+---
 
-HTML5
+## 📦 File Structure
 
-CSS3
-
-JavaScript (Vanilla)
-
-Git & GitHub
-
-📦 File Structure
+```
 my-first-project/
-│
-├── index.html      # HTML structure of the page
-├── styles.css      # Styling and layout
-├── script.js       # JavaScript logic
-└── images/         # Images and icons
+├── index.html # HTML structure
+├── styles.css # Styles and layout
+├── script.js # JavaScript logic
+└── images/ # Images and icons
+```
+---
 
-💡 About This Project
+## 👩‍💻 Team Members
+- @mikaelasturk
+- @carro-barro  
+- Me  
 
-This project was mostly a learning experience — we built a simple [describe briefly what your project does, e.g., “interactive webpage with buttons and content sections”]. The focus was on teamwork and applying coding basics we learned at Technigo.
+---
 
-👩‍💻 Team Members
+## 🧠 How It Works
+1. We planned the project together and divided tasks.  
+2. Each team member worked on their part (HTML, CSS, JS).  
+3. We merged our work on GitHub using pull requests.  
+4. The final project showcases a simple webpage with interactive elements and styling.  
 
-👩🏻‍💻 @mikaelasturk
-👩🏻‍💻 @carro-barro
-👩🏻‍💻 And me 
+---
 
-❗ Important
+## ❗ Important
+This is my **first coding project**, so the code is simple and meant for learning.  
 
-This is my first step in programming, so the code is simple and mainly for educational purposes.
+---
 
-📄 License
+## 📄 License
+This project is free for educational use.  
 
-This project is free for educational use.
